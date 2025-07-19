@@ -1,40 +1,60 @@
-<h1 align="center">Hi 👋, I'm Anurag Singh</h1>
-<h3 align="center">🚀 Aspiring Data Analyst | MBA + BCA | Passionate about insights</h3>
+<h1 align="center">Hi 👋, I'm Anurag Pratap Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Analytics%20Intern%20at%20Unified%20Mentor;Power%20BI%20%7C%20SQL%20%7C%20Excel%20%7C%20Python%20%7C%20ML%20Basics;Building%20AI-enhanced%20dashboards%20and%20stories..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Analyst%20%7C%20Business%20%26%20Finance%20Enthusiast;Power%20BI%20%7C%20SQL%20%7C%20Python%20%7C%20Excel%20%7C%20Banking%20Analytics;Top%205%%20BCA%20%7C%20MBA%20(Banking%20%26%20Finance)%20%7C%20Always%20Learning..." alt="Typing SVG" />
 </p>
 
----
-
-### 🧠 Skills & Tools
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Machine Learning](https://img.shields.io/badge/-ML-BB001B?style=flat&logo=scikitlearn)
+<h4 align="center"><i>“I turn business questions into data-driven stories.”</i></h4>
 
 ---
 
-### 🔥 Featured Projects
+### 🧠 About Me
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [🔍 Credit Card Fraud Detection](https://github.com/Anuraga123/credit-card-fraud-detection) | Detected anomalies in transaction data using Logistic Regression | Python |
-| [📊 HR Analytics Dashboard](https://github.com/Anuraga123/hr-analytics-dashboard) | Visualized attrition from HR data | Power BI |
-| [🍕 Pizza Sales Analysis](https://github.com/Anuraga123/pizza-sales-powerbi) | Tracked sales trends | Power BI, Excel |
-| [🧠 AI-Powered Academic Tracker](https://github.com/Anuraga123/ai-academic-dashboard) | Used Excel + AI for performance insights | Excel |
-| [🚖 Uber Trip SQL Dashboard](https://github.com/Anuraga123/uber-sql-dashboard) | SQL queries to analyze trips | SQL, PostgreSQL |
+- 🎓 **BCA (VIT Vellore, CGPA 9.0)** | 🏆 Top 5% in batch  
+- 🎓 **MBA in Banking & Finance** (IGNOU - ODL)  
+- 💼 **Data Analyst Intern @ Unified Mentor**  
+- 📊 Focused on **Finance, Business, and Data Analytics**  
+- 🛠️ Turning raw data into actionable dashboards and insights  
+- 🧠 Lifelong learner building AI-enhanced tools, BI systems & automations
 
 ---
 
-### 📫 Connect With Me
+### 🏆 Key Achievements
 
-<p align="left">
-<a href="https://linkedin.com/in/your-link" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="mailto:your@email.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-</p>
+- 🥇 **94.8% in Class 10 (District Topper)** – Gold Medal  
+- 🥇 **89% in Class 12 (PCM)** – Amar Ujala Gold  
+- 🥇 **Top 5% of VIT Vellore BCA Batch** (CGPA 9.0) – Gold  
+- 👨‍🎓 **Headboy, Sterling Public School** – Led 1,000+ students  
+- 🏆 Built 5+ full-cycle analytics projects (Python, Power BI, SQL)
+
+---
+
+### 💼 Technical Skills
+
+#### 📊 Analytics, BI & Visualization  
+`Power BI`, `Excel`, `Tableau`, `Google Sheets`, `DAX`, `Power Query`, `Pivot Tables`, `AI Insights`
+
+#### 🧠 Programming & Data  
+`Python (Pandas, NumPy, Seaborn, Sklearn)`, `SQL (Joins, Subqueries, Windows)`, `ETL`, `EDA`, `ML Basics`
+
+#### 🌐 Web & Dev Skills  
+`HTML`, `CSS`, `JavaScript`, `PHP`, `Java`, `C++`, `DSA`, `MySQL`, `DBMS`, `OOP`, `OS`
+
+#### ⚙️ Tools & Platforms  
+`Git`, `GitHub`, `VS Code`, `Google Colab`, `Jupyter`, `MS Office`
+
+---
+
+### 🚀 Featured Projects
+
+| 📁 Project | 💡 Description | 🛠 Tools |
+|-----------|----------------|----------|
+| [🔍 Credit Card Fraud Detection](https://github.com/Anuraga123/credit-card-fraud-detection) | ML model + Django dashboard to flag risky transactions (88% precision) | Python, SQL, Django |
+| [📦 Blinkit Sales & Ops Dashboard](https://github.com/Anuraga123/blinkit-sales-powerbi) | Multi-page Power BI dashboard with KPIs, slicers & sentiment analysis | Power BI |
+| [🧠 AI-Enhanced Excel Dashboard](https://github.com/Anuraga123/ai-academic-dashboard) | Excel Copilot dashboard with live grade tracking & batch filters | Excel, Power Query |
+| [🚖 Uber SQL Dashboard](https://github.com/Anuraga123/uber-sql-dashboard) | Trip pattern analysis using joins, window functions, aggregates | SQL |
+| [📊 IBM HR Analytics](https://github.com/Anuraga123/hr-analytics-dashboard) | Visualized attrition insights, built KPIs, gave HR policy suggestions | Python, Power BI |
+| [🏥 Hospital Management System](https://github.com/Anuraga123/hospital-management-system) | Modular PHP-MySQL based CRUD system with validation and backups | PHP, MySQL |
 
 ---
 
@@ -47,5 +67,14 @@
 
 ---
 
-<p align="center">✨ Powered by curiosity, data, and chai ☕</p>
-Add Portfpliotheme
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/anuragaiaf" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:anuragiaf1234@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">✨ “Great analysts don’t just build dashboards — they build clarity.”</p>
+<p align="center">📊 Fueled by data, powered by storytelling, finished with chai ☕</p>
