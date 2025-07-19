@@ -1,10 +1,10 @@
-<!-- Futuristic, Clean & Robotic GitHub README for Anurag Pratap Singh -->
+<!-- 🚀 Futuristic & Professional GitHub README for Anurag Pratap Singh -->
 
-<h1 align="center">🤖 Anurag Pratap Singh</h1>
+<h1 align="center">Anurag Pratap Singh</h1>
 <h3 align="center">Data Analyst | MBA in Banking & Finance | BCA from VIT Vellore</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20AI-Powered%20Dashboards;SQL%20%7C%20Power%20BI%20%7C%20Excel%20%7C%20Python;Insight-Driven%20%7C%20Finance-Focused%20%7C%20Results-Oriented" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Insight-Driven%20Decision%20Making;Finance%20%7C%20Business%20%7C%20AI%20Analytics;Transforming%20Data%20into%20Impact" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,50 +15,39 @@
 
 ---
 
-## 🧬 About Me
+## 👋 About Me
 
-🎓 I'm pursuing an **MBA in Banking & Finance (IGNOU - ODL)** and hold a **BCA from VIT Vellore** (Top 5%). I recently completed a **Data Analyst internship at Unified Mentor**.
+Hi, I'm **Anurag**, a passionate and performance-focused **Data Analyst** with a strong background in finance and technology. I'm currently pursuing my **MBA in Banking & Finance** from IGNOU (ODL) and hold a **BCA from VIT Vellore**, where I ranked among the **top 5% of my batch**.
 
-🔍 I’m actively seeking data analyst opportunities where I can apply my skills in business intelligence, financial analysis, and automated insights to drive strategic decisions.
+I recently worked as a **Data Analyst Intern at Unified Mentor**, where I created impactful dashboards, streamlined reporting processes, and delivered meaningful business insights.
 
-💡 Capable of building interactive dashboards, performing end-to-end data analysis, and turning raw data into stories that matter.
-
----
-
-## 🚀 Portfolio Highlights
-
-| Project | Description | Stack |
-|--------|-------------|--------|
-| **💳 Credit Card Fraud Detection** | Real-time risk flagging with ML and Django | Python, SQL |
-| **🛒 Blinkit Sales Dashboard** | KPI-rich report with sentiment insights | Power BI |
-| **📘 Academic AI Dashboard** | Risk prediction using Excel + Copilot | Excel, VBA |
-| **🚖 Uber SQL Dashboard** | Route and fare trend analysis | SQL |
-| **🧑‍💼 IBM HR Analytics** | Visual HR insights for attrition | Power BI |
+My goal is to work on solving **real-world business problems using data**, blending financial knowledge with technical tools to provide **deep, actionable insights**. I'm always looking to collaborate on analytical projects that drive change and growth.
 
 ---
 
-## ⚙️ Technology Matrix
+## 🔥 What I Bring to the Table
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,excel,powerbi,tableau,html,css,js" />
-</p>
-
----
-
-## 🧠 AI Workflow
-
-```mermaid
-graph TD;
-    A[Input: Raw Data] --> B[Step 1: Clean & Transform];
-    B --> C[Step 2: EDA];
-    C --> D[Step 3: AI Models];
-    D --> E[Step 4: Dashboards];
-    E --> F[Output: Business Insights];
-```
+- End-to-end data analysis: from raw data to visual story
+- Solid understanding of financial data and business metrics
+- Strong communication of insights to non-technical stakeholders
+- Passion for simplifying complexity into clarity
+- Constant learner, with a futuristic mindset toward analytics
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Highlight Projects
+
+| Project | Description |
+|--------|-------------|
+| **Credit Card Fraud Detection** | Built a fraud detection pipeline and dashboard using Python and SQL to highlight risky transactions in real-time. |
+| **Blinkit Sales Dashboard** | Created a multi-page Power BI report featuring sales KPIs, filters, and customer sentiment breakdowns. |
+| **AI Academic Dashboard** | Developed Excel-based automated grade and performance tracker with alert triggers using VBA. |
+| **Uber SQL Dashboard** | Designed SQL reports that analyze trip volume, earnings, and route performance. |
+| **IBM HR Analytics** | Delivered employee attrition insights through Power BI visualizations. |
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anuraga123&show_icons=true&theme=transparent&hide_border=true&custom_title=📈 Analyst GitHub Stats" />
@@ -67,7 +56,7 @@ graph TD;
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Let’s Connect
 
 <p align="center">
   <a href="mailto:anuragiaf1234@gmail.com">
@@ -82,11 +71,11 @@ graph TD;
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Build%20Intelligence%2C%20Not%20Just%20Charts.;AI%20First%20%7C%20Insight%20Led%20%7C%20Data%20Always.;Designed%20for%20Clarity%2C%20Driven%20by%20Impact." />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20is%20Power%2C%20Insight%20is%20Strength.;I%20don%E2%80%99t%20just%20visualize%20data%E2%80%94I%20strategize%20with%20it.;Fueling%20business%20with%20analytics." />
 </p>
 
 <p align="center">
-  🤖 Coded for 2100. Runs on insights. Driven by chai.
+  🧠 Precision. Clarity. Impact. Welcome to next-gen analytics.
 </p>
 
 ---
