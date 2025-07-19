@@ -8,20 +8,27 @@
 </p>
 
 <p align="center">
-  <a href="mailto:anuragiaf1234@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="30"/></a>
-  <a href="https://linkedin.com/in/anuragaiaf" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="30"/></a>
+  <a href="mailto:anuragiaf1234@gmail.com"><img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail" height="30"/></a>
+  <a href="https://linkedin.com/in/anuragaiaf" target="_blank"><img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="LinkedIn" height="30"/></a>
   <a href="https://github.com/Anuraga123" target="_blank"><img src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub" height="30"/></a>
+  <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/python.png" alt="Python" height="30"/></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" height="30"/></a>
 </p>
 
 ---
 
 ## 🧬 About Me
 
-🎓 **MBA in Banking & Finance** (IGNOU - ODL)  
-🎓 **BCA from VIT Vellore** – Top 5%  
-💼 **Data Analyst Intern** – Unified Mentor  
-🧠 I bridge data, finance, and automation to craft insights that drive real business decisions.  
-🌍 Looking for data analyst roles focused on business intelligence, automation, and financial insights.
+🎓 I'm **Anurag**, a futuristic Data Analyst blending finance with technology. Currently pursuing an **MBA in Banking & Finance** from IGNOU (ODL), and a proud **BCA graduate from VIT Vellore**, ranked among the **top 5% of the batch**.
+
+🏆 **Academic Highlights**:
+- 📘 **Class 10:** Scored 94.8% – Top 10 in the district
+- 📗 **Class 12:** Scored 89% PCM – Top 3 in class
+- 🎓 **BCA (VIT Vellore):** CGPA 9.00 – Top 5% of batch
+
+💼 **Internship:** Data Analyst Intern @ Unified Mentor
+
+🔍 I transform raw data into intelligent dashboards, automate reports, and help businesses gain clarity through insight.
 
 ---
 
@@ -29,28 +36,28 @@
 
 | 💡 Project | 🚀 Description | 🛠️ Tech |
 |-----------|----------------|---------|
-| **Credit Card Fraud Detection** | Built a real-time dashboard using ML to flag suspicious transactions | Python, SQL, Django |
-| **Blinkit Sales Analysis** | Power BI report with customer feedback integration and trend slicers | Power BI, DAX |
-| **AI Academic Dashboard** | Excel dashboard with Copilot and dynamic grading alerts | Excel, VBA |
-| **IBM HR Analytics** | HR attrition and prediction model with Power BI dashboards | Python, Power BI |
-| **Uber SQL Dashboard** | Trip and fare analytics dashboard from large ride-sharing dataset | SQL, PostgreSQL |
+| 💳 **Credit Card Fraud Detection** | Built real-time ML-based fraud flagging dashboard | Python, SQL, Django |
+| 🛒 **Blinkit Sales Analysis** | Power BI dashboard with KPIs, trends, and slicers | Power BI, DAX |
+| 📘 **AI Academic Dashboard** | Excel tracker with VBA + Copilot alerts | Excel, VBA |
+| 🧑‍💼 **IBM HR Analytics** | Attrition dashboard with predictors | Power BI, Python |
+| 🚖 **Uber SQL Dashboard** | Trip analysis, earnings, route trends | SQL, PostgreSQL |
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools, Technologies & Programming
 
-- **Languages:** Python, SQL, Java, PHP, C++, JavaScript, HTML/CSS  
-- **Analytics & BI:** Power BI, Excel (Power Query + VBA), Tableau  
-- **Databases:** MySQL, PostgreSQL, Firebase  
-- **Others:** Git, GitHub, Excel Copilot, Google Sheets, VS Code  
-- **Domain:** Financial Analytics, Dashboarding, EDA, Automation
+**Languages:** Python, SQL, Java, PHP, C++, JavaScript, HTML/CSS  
+**BI & Analytics:** Power BI, Excel (VBA, Power Query), Tableau  
+**Database:** MySQL, PostgreSQL, Firebase  
+**Tools:** Git & GitHub, Excel Copilot, Google Sheets, VS Code  
+**Domain Knowledge:** EDA, Automation, KPI Design, Dashboarding, Financial Modeling
 
 ---
 
-## 🌐 Real-Time Widgets
+## 🌐 Real-Time Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anuraga123&label=Profile+Views&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Anuraga123&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -64,10 +71,26 @@
 
 ---
 
+## 🤝 Let’s Connect
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Not%20Just%20Dashboards%2C%20I%20Build%20Decisions.;Futuristic%20Analytics%20%7C%20Finance%20%7C%20AI%20%7C%20Automation;Insight%20is%20Power%20%E2%80%94%20I%20Deliver%20Both." />
+  <a href="mailto:anuragiaf1234@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/anuragaiaf" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="https://github.com/Anuraga123" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub" height="40"/>
+  </a>
 </p>
 
 <p align="center">
-  🔍 Precision. 💡 Insight. 🧠 Strategy. Welcome to the future of data analysis.
+  <img src="https://readme-typing-svg.demolab.com/?lines=Insight%20is%20Power%20%E2%80%94%20I%20Deliver%20Both.;Built%20for%20Business%2C%20Trained%20in%20Technology.;Analytics%20with%20Clarity%20%7C%20Futuristic%20%7C%20Finance-Driven." />
 </p>
+
+<p align="center">
+  🧠 Insight. 🔢 Numbers. 💼 Business. That’s the future I’m building.
+</p>
+
+---
