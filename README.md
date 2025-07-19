@@ -1,102 +1,92 @@
-<!-- README.md for Anuraga123 - Professional & Futuristic Data Analyst GitHub Profile -->
+<!-- Futuristic, Clean & Robotic GitHub README for Anurag Pratap Singh -->
 
-<h1 align="center">Anurag Pratap Singh</h1>
-<h3 align="center">Data Analyst | MBA (Banking & Finance) | VIT Vellore | Insight-Driven Professional</h3>
+<h1 align="center">🤖 Anurag Pratap Singh</h1>
+<h3 align="center">Data Analyst | MBA in Banking & Finance | BCA from VIT Vellore</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Power%20BI%20%7C%20SQL%20%7C%20Excel%20%7C%20Python%20%7C%20Finance%20Analytics;Dashboards%20%7C%20KPIs%20%7C%20AI%20Automation%20%7C%20Insight%20Storytelling;Top%205%%20BCA%20%7C%20MBA%20IGNOU%20%7C%20Headboy%20Leadership..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20AI-Powered%20Dashboards;SQL%20%7C%20Power%20BI%20%7C%20Excel%20%7C%20Python;Insight-Driven%20%7C%20Finance-Focused%20%7C%20Results-Oriented" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/anuragaiaf" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Anurag%20Pratap%20Singh-blue?style=flat-square&logo=linkedin">
-  </a>
-  <a href="mailto:anuragiaf1234@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-anuragiaf1234%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
-  </a>
+  <a href="mailto:anuragiaf1234@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="32"/></a>
+  <a href="https://linkedin.com/in/anuragaiaf" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="32"/></a>
+  <a href="https://github.com/Anuraga123" target="_blank"><img src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub" height="32"/></a>
 </p>
 
 ---
 
-## 🧪 About Me
+## 🧬 About Me
 
-- 🎓 **BCA - VIT Vellore (Top 5%)**, CGPA 9.0
-- 🎓 **MBA in Banking & Finance - IGNOU (ODL)**
-- 💼 Data Analyst Intern at **Unified Mentor**
-- 🏆 Class 10 (94.8%) - District Gold Medalist
-- 🏆 Class 12 (89%) - Amar Ujala Gold Award
-- 🚀 Focused on solving business problems using data, dashboards & AI insights
+🎓 I'm pursuing an **MBA in Banking & Finance (IGNOU - ODL)** and hold a **BCA from VIT Vellore** (Top 5%). I recently completed a **Data Analyst internship at Unified Mentor**.
+
+🔍 I’m actively seeking data analyst opportunities where I can apply my skills in business intelligence, financial analysis, and automated insights to drive strategic decisions.
+
+💡 Capable of building interactive dashboards, performing end-to-end data analysis, and turning raw data into stories that matter.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Portfolio Highlights
 
-| Project | Description | Tools |
+| Project | Description | Stack |
 |--------|-------------|--------|
-| **Credit Card Fraud Detection** | Real-time fraud flagging using ML & Django | Python, SQL, Django |
-| **Blinkit Sales Dashboard** | KPI-rich dashboard with AI sentiment | Power BI |
-| **AI Academic Dashboard** | Smart Excel for student risk alerts | Excel, Power Query, VBA |
-| **Uber SQL Dashboard** | Trip data analysis & aggregation logic | PostgreSQL, SQL |
-| **IBM HR Analytics** | Attrition visual insights & HR advice | Power BI, Python |
-| **Hospital Management System** | Admin panel & login control | PHP, MySQL |
+| **💳 Credit Card Fraud Detection** | Real-time risk flagging with ML and Django | Python, SQL |
+| **🛒 Blinkit Sales Dashboard** | KPI-rich report with sentiment insights | Power BI |
+| **📘 Academic AI Dashboard** | Risk prediction using Excel + Copilot | Excel, VBA |
+| **🚖 Uber SQL Dashboard** | Route and fare trend analysis | SQL |
+| **🧑‍💼 IBM HR Analytics** | Visual HR insights for attrition | Power BI |
 
 ---
 
-## 🔌 Tech Stack
+## ⚙️ Technology Matrix
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,excel,powerbi,tableau,django,github,git,html,css,js,php,java,cpp" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,excel,powerbi,tableau,html,css,js" />
+</p>
 
 ---
 
-## 🧰 AI Workflow
+## 🧠 AI Workflow
 
 ```mermaid
 graph TD;
-    A[Raw Data] --> B[Cleaned via ETL];
-    B --> C[EDA & Pattern Detection];
-    C --> D[AI Modeling & Clustering];
-    D --> E[Insightful Dashboards];
-    E --> F[Business Impact]
+    A[Input: Raw Data] --> B[Step 1: Clean & Transform];
+    B --> C[Step 2: EDA];
+    C --> D[Step 3: AI Models];
+    D --> E[Step 4: Dashboards];
+    E --> F[Output: Business Insights];
 ```
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anuraga123&show_icons=true&theme=gradient&custom_title=Analyst%20Metrics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuraga123&layout=compact&theme=gradient" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anuraga123&theme=gruvbox&no-frame=true&row=1&column=6" />
-</p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anuraga123&show_icons=true&theme=transparent&hide_border=true&custom_title=📈 Analyst GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuraga123&layout=compact&theme=transparent&hide_border=true" />
+</div>
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 Connect with Me
 
 <p align="center">
+  <a href="mailto:anuragiaf1234@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="40"/>
+  </a>
   <a href="https://linkedin.com/in/anuragaiaf" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="40"/>
   </a>
-  <a href="mailto:anuragiaf1234@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/Anuraga123" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub" height="40"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Turning%20Data%20Into%20Decisions.;Dashboards%20%7C%20Stories%20%7C%20Growth.;From%20Code%20to%20Clarity." />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Build%20Intelligence%2C%20Not%20Just%20Charts.;AI%20First%20%7C%20Insight%20Led%20%7C%20Data%20Always.;Designed%20for%20Clarity%2C%20Driven%20by%20Impact." />
 </p>
 
 <p align="center">
-  🧠 Built with precision. Designed for impact. ☕ Fueled by chai.
+  🤖 Coded for 2100. Runs on insights. Driven by chai.
 </p>
 
 ---
